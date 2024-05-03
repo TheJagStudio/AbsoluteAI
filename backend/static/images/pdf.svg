@@ -1,0 +1,28 @@
+<svg width="50" height="50" viewBox="0 0 50 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="50" height="50" rx="4" fill="url(#paint0_linear_3_3059)"/>
+<path d="M10.0908 43.9394H39.909C40.4613 43.9394 40.909 43.4917 40.909 42.9394V25.3788V16.2981C40.909 16.0479 40.8152 15.8068 40.6462 15.6224L32.8729 7.14251C32.6835 6.93588 32.4161 6.81824 32.1358 6.81824H24.9999H10.0908C9.53854 6.81824 9.09082 7.26595 9.09082 7.81824V42.9394C9.09082 43.4917 9.53854 43.9394 10.0908 43.9394Z" fill="white"/>
+<rect x="12.1213" y="10.6061" width="9.09091" height="1.51515" rx="0.757576" fill="#00b1de"/>
+<rect x="12.1213" y="13.6364" width="14.3939" height="1.51515" rx="0.757576" fill="#00b1de" fill-opacity="0.3"/>
+<rect x="28.7878" y="36.3636" width="9.09091" height="1.51515" rx="0.757576" fill="#00b1de"/>
+<rect x="23.4851" y="39.3939" width="14.3939" height="1.51515" rx="0.757576" fill="#00b1de" fill-opacity="0.3"/>
+<rect x="12.1213" y="20.4546" width="6.81818" height="1.51515" rx="0.757576" fill="#00b1de"/>
+<rect x="12.1213" y="23.4848" width="6.81818" height="1.51515" rx="0.757576" fill="#00b1de" fill-opacity="0.3"/>
+<rect x="21.2122" y="20.4546" width="6.81818" height="1.51515" rx="0.757576" fill="#00b1de"/>
+<rect x="21.2122" y="23.4848" width="4.54545" height="1.51515" rx="0.757576" fill="#00b1de" fill-opacity="0.3"/>
+<rect x="31.0608" y="20.4546" width="6.81818" height="1.51515" rx="0.757576" fill="#00b1de"/>
+<rect x="32.5757" y="23.4848" width="5.30303" height="1.51515" rx="0.757576" fill="#00b1de" fill-opacity="0.3"/>
+<rect x="12.1213" y="26.5152" width="4.54545" height="1.51515" rx="0.757576" fill="#00b1de" fill-opacity="0.3"/>
+<rect x="21.2122" y="26.5152" width="6.81818" height="1.51515" rx="0.757576" fill="#00b1de" fill-opacity="0.3"/>
+<rect x="31.0608" y="26.5152" width="6.81818" height="1.51515" rx="0.757576" fill="#00b1de" fill-opacity="0.3"/>
+<rect x="12.1213" y="29.5454" width="6.06061" height="1.51515" rx="0.757576" fill="#00b1de" fill-opacity="0.3"/>
+<rect x="21.2122" y="29.5454" width="4.54545" height="1.51515" rx="0.757576" fill="#00b1de" fill-opacity="0.3"/>
+<rect x="34.0908" y="29.5454" width="3.78788" height="1.51515" rx="0.757576" fill="#00b1de" fill-opacity="0.3"/>
+<path d="M32.9546 8.33334L40.9091 15.9091L34.7715 16.8782C34.1988 16.9686 33.6695 16.5547 33.6193 15.9771L32.9546 8.33334Z" fill="#8A9DFF" fill-opacity="0.14"/>
+<path d="M32.5757 6.81824L40.909 15.9091H33.5757C33.0234 15.9091 32.5757 15.4614 32.5757 14.9091V6.81824Z" fill="#B6C1FF"/>
+<defs>
+<linearGradient id="paint0_linear_3_3059" x1="0" y1="0" x2="50" y2="50" gradientUnits="userSpaceOnUse">
+<stop stop-color="#60e5ff"/>
+<stop offset="1" stop-color="#0096c7"/>
+</linearGradient>
+</defs>
+</svg>
