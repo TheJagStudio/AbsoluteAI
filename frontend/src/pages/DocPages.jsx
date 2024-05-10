@@ -51,7 +51,7 @@ function DocPages() {
                     {files.length === 0 ? (
                         <img src="/static/images/sampleInvoice.png" className="rounded-lg object-contain h-full" />
                     ) : files[0] !== "loading" ? (
-                        files.map((file, index) => <img key={index} src={import.meta.env.VITE_SERVER + file} className="rounded-lg" />)
+                        files.map((file, index) => <img key={index} src={"data:image/png;base64," + file} className="rounded-lg" />)
                     ) : (
                         <>
                             <video src="/static/videos/imageLoading.mp4" className="w-full h-full mix-blend-multiply absolute bottom-0 right-0 object-fill opacity-60 animate-pulse" autoPlay={true} loop={true}></video>
